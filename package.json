@@ -1,0 +1,14 @@
+{
+  "name": "portable-transform-wrap",
+  "version": "0.0.1",
+  "description": "portable.js transform to wripe file contents into a custom function",
+  "main": "index.js",
+  "keywords": ["portable", "portable.js", "transform", "wrap", "function"],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/streamich/portable-transform-wrap.git"
+  },
+  "license": "Unlicense",
+  "dependencies": {},
+  "devDependencies": {}
+}
